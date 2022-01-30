@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mywebapp-d36c5": {
+      "hosting": {
+        "app": [
+          "mywebapp-d36c5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mywebapp-d36c5"
+  }
+}
