@@ -49,5 +49,4 @@ export class DataService {
     return updateDoc(noteDocRef, { title: note.title, text: note.text });
   }
 
-
 }
